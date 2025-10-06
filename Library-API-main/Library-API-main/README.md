@@ -1,13 +1,6 @@
-Perfeito 😎
-Você quer algo **simples**, **bonito**, **profissional** — sem animações, mas ainda com um toque **nerd e estilizado** (com ícones, emojis e visual limpo de README de dev moderno).
-
-Aqui está um modelo otimizado para **README.md** no GitHub — ele renderiza perfeitamente, sem scripts ou HTML extra.
-Você pode **copiar e colar direto** no seu repositório.
-
----
 
 ````md
-# 📚 Biblioteca API
+# 👾 Biblioteca API 👾
 
 > Uma API de gerenciamento de biblioteca escolar construída com **NestJS**, **Prisma** e **MySQL**.  
 > Controle de usuários, autenticação JWT, CRUD de livros e fluxo completo de empréstimos.  
@@ -106,7 +99,7 @@ npm run start:prod
 | **main**     | Versão estável de produção |
 | **develop**  | Versão de desenvolvimento  |
 | **feature/** | Novas funcionalidades      |
-| **bugfix/**  | Correções de erros         |
+| **bugfix/**  |(funcionou na minha maquina)|
 
 ---
 
@@ -119,7 +112,7 @@ npm run start:prod
 
 ## 🧠 Créditos
 
-* 👨‍💻 **Autor:** [Seu Nome Aqui]
+* 👨‍💻 **Autor:** [Cauã Gabriel]
 * 🗂️ **Projeto:** `/var/www/biblioteca-api`
 * 💾 **Stack:** NestJS • Prisma • MySQL • JWT
 

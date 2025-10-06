@@ -94,12 +94,12 @@ npm run start:prod
 
 ## 🧱 Estrutura de Branches
 
-| Tipo         | Descrição                  |
-| ------------ | -------------------------- |
-| **main**     | Versão estável de produção |
-| **develop**  | Versão de desenvolvimento  |
-| **feature/** | Novas funcionalidades      |
-| **bugfix/**  |(funcionou na minha maquina)|
+| Tipo         | Descrição                      |
+| ------------ | --------------------------     |
+| **main**     | Versão estável de produção     |
+| **develop**  | Versão de desenvolvimento      |
+| **feature/** | Novas funcionalidades          |
+| **bugfix/**  |(funcionou na minha maquina)KKKK|
 
 ---
 
@@ -118,5 +118,5 @@ npm run start:prod
 
 ---
 
-> *"Knowledge is power. Use it responsibly."* 🧩
+> *"Big APIs, bigger possibilities, and the responsibility to use them wisely." * 🧩🌐⚡
 
